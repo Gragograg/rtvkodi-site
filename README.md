@@ -1,2 +1,0 @@
-# rtvkodi-site
-web
